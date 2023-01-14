@@ -1,0 +1,15 @@
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\bin\Debug\net6.0\program.cs.exe
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\bin\Debug\net6.0\program.cs.deps.json
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\bin\Debug\net6.0\program.cs.runtimeconfig.json
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\bin\Debug\net6.0\program.cs.dll
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\bin\Debug\net6.0\program.cs.pdb
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.csproj.AssemblyReference.cache
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.AssemblyInfoInputs.cache
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.AssemblyInfo.cs
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.dll
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\refint\program.cs.dll
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.pdb
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\program.cs.genruntimeconfig.cache
+C:\Users\Кудря\Desktop\GB учеба Frontened\Kontrolnaya\program.cs\obj\Debug\net6.0\ref\program.cs.dll
