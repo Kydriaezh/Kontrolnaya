@@ -1,4 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+// Написать программу, которая из имеющегося массива строк формирует массив из строк, 
+// длина которых меньше либо равна 3 символа. Первоначальный массив можно ввести с клавиатуры,
+// либо задать на старте выполнения алгоритма. 
+
 string[] array1 = new string[5] {"cat", "23", "hello", "world", "git"};
 string[] array2 = new string[array1.Length];
 void SecondArray(string[] array1, string[] array2)
